@@ -1,1 +1,1 @@
-Welcome to the ubcscwiki wiki!
+Welcome to the ubcsc wiki home page!
