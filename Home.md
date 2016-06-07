@@ -1,1 +1,1 @@
-Welcome to the ubcsc wiki
+Welcome to UBCSC
