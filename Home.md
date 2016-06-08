@@ -42,7 +42,7 @@ There is no better way to improve you programming skills, than to actually write
 
 
 ####How to contact member of the group
-**Mailing List** : [https://groups.google.com/forum/#!forum/ubcsc-programming-club](https://groups.google.com/forum/#!forum/ubcsc-programming-club)  
+**Mailing List** : [groups.google.com/forum/#!forum/ubcsc-programming-club](https://groups.google.com/forum/#!forum/ubcsc-programming-club)  
 **IRC**: #ublab
 
 ####Further reading  
