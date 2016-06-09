@@ -11,7 +11,7 @@ There is no better way to improve you programming skills, than to actually write
 #### Importance of contributing to open-source
 - Since we all depend on open-source software, contributing to open-source would be one way to give back to the community.
 - It is also a rare opportunity to contribute to a software that is making a difference in the lives of many.
-- By contributing to open-source we would also be great way to collaborate with, and learn from a team on solving computation problem.
+- Contributing to open-source would also be great way to collaborate with, and learn from a team on solving computational problem.
 - It also offers a chance to learn from the best and to good gain experience.
  
 #### List of programming languages used by members
